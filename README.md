@@ -1,6 +1,9 @@
 # Pratham1845.github.io
 ## Student induction Program
 
+Certificate of excel for beginners 
+![page_1](https://github.com/user-attachments/assets/d3482361-7130-4fbf-9288-213d0484197c)
+
 | Date | Name | Description |
 | ---- | ---- | ----------- |
 | 11-07-24 | Dr. Arvind Dhingra |              |
